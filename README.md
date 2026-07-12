@@ -1,20 +1,17 @@
-# Sales Analysis Project
+# Sales Analysis Project📊
 
 ## Project Overview
 
-This project is an end-to-end Sales Analysis project developed using Microsoft Excel, Python, SQL, and Power BI.
+This project is an end-to-end Sales Analysis project developed using Microsoft Excel, Python, SQL and Power BI.
+The objective was to clean, analyze, visualize and interpret retail sales data to answer key business questions and provide actionable insights for decision making.
 
-The objective was to clean, analyze, visualize, and interpret retail sales data to answer key business questions and provide actionable insights for decision-making.
-
-## Tools Used
-
+## Tools Used;
 - Microsoft Excel
 - Python
 - SQL (SQLite)
 - Power BI
 
-## Project Objectives
-
+## Project Objectives;
 - Clean and prepare the dataset.
 - Calculate key business KPIs.
 - Analyze sales performance across regions, products and customers.
@@ -22,15 +19,13 @@ The objective was to clean, analyze, visualize, and interpret retail sales data 
 - Validate results across multiple analytical tools.
 - Document the complete analytical process.
 
-## Key Performance Indicators (KPIs)
-
+## Key Performance Indicators (KPIs);
 - Total Sales
 - Total Orders
 - Total Customers
 - Average Sales per Order
 
-## Business Questions Answered
-
+## Business Questions Answered;
 - What is the total sales revenue?
 - Which region generated the highest sales?
 - Which product category performed best?
@@ -38,8 +33,7 @@ The objective was to clean, analyze, visualize, and interpret retail sales data 
 - Which products generated the highest revenue?
 - How did sales change over time?
 
-## Project Structure
-
+## Project Structure;
 ```text
 Sales Analysis
 │
@@ -51,8 +45,7 @@ SQL
 Power BI
 Screenshots
 ```
-## Skills Demonstrated
-
+## Skills Demonstrated;
 - Data Cleaning
 - Data Validation
 - Exploratory Data Analysis (EDA)
@@ -63,8 +56,7 @@ Screenshots
 - Data Visualization
 - Business Reporting
 
-## Key Insights
-
+## Key Insights;
 - The West region generated the highest sales.
 - Technology was the highest-performing product category.
 - Sales showed an upward trend across the analysis period.
@@ -75,9 +67,8 @@ Screenshots
 
 ✅ Completed
 
-## Author
+## Author;
         
 **Oluwafeyikemi Esther Adefemi**
-
 Aspiring Data Analyst
 Building practical analytics projects using Excel, Python, SQL and Power BI
