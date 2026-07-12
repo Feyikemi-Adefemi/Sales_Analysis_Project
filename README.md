@@ -56,6 +56,16 @@ Screenshots
 - Data Visualization
 - Business Reporting
 
+# 📸 Dashboard Preview
+
+## Executive Summary
+
+![Executive Summary](Screenshots/Executive%20Summary.png)
+
+## Sales Analysis Dashboard
+
+![Sales Analysis Dashboard](Screenshots/Sales%20Analysis.png)
+
 ## Key Insights;
 - The West region generated the highest sales.
 - Technology was the highest-performing product category.
