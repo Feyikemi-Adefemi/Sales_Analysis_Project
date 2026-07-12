@@ -70,5 +70,7 @@ Screenshots
 ## Author;
         
 **Oluwafeyikemi Esther Adefemi**
-Aspiring Data Analyst
+
+An Aspiring Data Analyst
+
 Building practical analytics projects using Excel, Python, SQL and Power BI
